@@ -8,7 +8,7 @@ This is demo project for learning purpose.
 - Thymeleaf
 
 ## Cloning
-** You can clone this project for practice purpose. **
+**You can clone this project for practice purpose.**
 
 ## Configuration
 - Login to github.com 
